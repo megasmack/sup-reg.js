@@ -1,0 +1,22 @@
+{
+    "name": "sup-reg",
+    "main": "dist/sup-reg.js",
+    "version": "1.0.0",
+    "description": "Add SUP tags around all registration marks.",
+    "homepage": "https://github.com/gsmke/sup-reg.js",
+    "authors": [
+        "Steve Schrab <steve.schrab@gsdesign.com>"
+    ],
+    "keywords": [
+        "sup",
+        "registration",
+        "reg",
+        "jquery",
+        "javascript",
+        "superscript"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=1.11.0"
+    }
+}
