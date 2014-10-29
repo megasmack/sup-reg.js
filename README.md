@@ -1,7 +1,6 @@
 # sup-reg.js
-==========
 
-Any ® marks will be wrapped in ```<sup>``` tags. Any registration marks already in ```<sup>``` tags will be ignored. So there is no chance of double wrapping them.
+Any ```®``` marks will be wrapped in ```<sup>``` tags. Any registration marks already in ```<sup>``` tags will be ignored. So there is no chance of double wrapping them.
 
 ## Requirements
 
