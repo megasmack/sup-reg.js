@@ -2,7 +2,7 @@
     "name": "sup-reg",
     "main": "dist/sup-reg.js",
     "version": "1.1.1",
-    "description": "Automatically add SUP tags around all registration marks.",
+    "description": "Automatically add <sup> tags around all registration marks.",
     "homepage": "https://github.com/gsmke/sup-reg.js",
     "authors": [
         "Steve Schrab <steve.schrab@gsdesign.com> (https://github.com/megasmack)"
