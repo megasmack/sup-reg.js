@@ -15,7 +15,7 @@ Just load the script before the end of ```body``` tag.
 <script src="sup-reg.js"></script>
 ```
 
-The script will add a `<sup>` tag with the class of `sup-reg`. If you want to do specific styling to `<sup>` tags created by sup-reg.js, it will also add an additional class of `sup-reg-kern` to any `<sup>` that is preceded by a period. This is useful for registration marks that are used on abbreviations. This way you can style additional kerning on these specific tags.
+If you want to add specific styling to `<sup>` tags created by sup-reg.js, the script will add a class of `sup-reg` to each tag. It will also add an additional class of `sup-reg-kern` to any `<sup>` tag that is preceded by a period. This is useful for registration marks that are used on abbreviations. This way you can style additional kerning on these specific tags.
 
 ## Install via bower
 ```
