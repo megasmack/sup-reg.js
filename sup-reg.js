@@ -6,7 +6,7 @@
 ;(function ($) {
     'use strict';
 
-    $('body :not(script,sup)').contents().filter(function () {
+    $('body :not(script,sup,iframe)').contents().filter(function () {
         return this.nodeType === 3;
     }).replaceWith(function () {
         return this.nodeValue.replace(/[®]/g, '<sup>$&</sup>');
