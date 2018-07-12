@@ -1,6 +1,6 @@
 /*
- * sup-reg.js v1.1.1
- * https://github.com/gsmke/sup-reg.js
+ * sup-reg.js v1.1.3
+ * https://github.com/megasmack/sup-reg.js
  */
 
 ;(function ($) {
