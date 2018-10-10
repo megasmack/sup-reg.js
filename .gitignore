@@ -1,3 +1,5 @@
 .DS_Store
 *.orig
 .gitignore
+node_modules/
+package-lock.json

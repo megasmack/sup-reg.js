@@ -1,5 +1,5 @@
 /*
- * sup-reg.js v1.1.3
+ * sup-reg.js v2.0.0
  * https://github.com/megasmack/sup-reg.js
  */
 
