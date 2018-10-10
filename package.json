@@ -1,0 +1,30 @@
+{
+  "name": "sup-reg",
+  "version": "2.0.0",
+  "description": "A jQuery plugin to automatically add <sup> tags around all registration marks.",
+  "main": "sup-reg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megasmack/sup-reg.js.git"
+  },
+  "keywords": [
+    "sup",
+    "registration",
+    "mark",
+    "reg",
+    "jquery",
+    "superscript"
+  ],
+  "author": "Steve Schrab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megasmack/sup-reg.js/issues"
+  },
+  "homepage": "https://github.com/megasmack/sup-reg.js#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
